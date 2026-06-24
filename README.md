@@ -1,18 +1,28 @@
 # OSS Test
 
-Monorepo containing:
+## Overview
 
-- Frontend: Next.js
-- Backend: NestJS
+## Tech Stack
 
-## Run Frontend
+- Next.js
+- NestJS
+- TypeScript
 
-cd frontend
+## Getting Started
+
+### Frontend
+
 npm install
 npm run dev
 
-## Run Backend
+### Backend
 
-cd backend
 npm install
 npm run start:dev
+
+## Project Documentation
+
+- [Roadmap](./ROADMAP.md)
+- [Contributing Guide](./CONTRIBUTING.md)
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
+- [Changelog](./CHANGELOG.md)
